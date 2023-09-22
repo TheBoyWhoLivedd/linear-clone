@@ -21,7 +21,7 @@ module.exports = {
         "glow-line-horizontal var(--animation-duration) ease-in forwards",
       "glow-line-vertical":
         "glow-line-vertical var(--animation-duration) ease-in forwards",
-      "fade-in": "fade-in 1000ms var(--animation-delay, 0ms) ease forwards",
+      "fade-in": "fade-in 800ms var(--animation-delay, 0ms) ease forwards",
       "image-glow": "image-glow 4100ms 600ms ease-out forwards",
       "image-rotate": "image-rotate 1400ms ease forwards",
       "sketch-lines": "sketch-lines 1200ms ease-out forwards",
